@@ -1,0 +1,44 @@
+{
+    "test1": {
+        "usuario": {
+            "username": "demo@sistemaslenox.com",
+            "contraseña": "Maynar*2986",
+            "id": "admin",
+            "nombre": "Cristian",
+            "apellido":"Torre",
+            "dni":"33017332",
+            "legajo":"12345678",
+            "puesto":"qa",
+            "email":"cristian@relojeslenox.com.ar",
+            "codigo":"011",
+            "novedad":"Parte de enfermo",
+            "empresa":"Lenox2023",
+            "motivo":"Ventas",
+            "pertenencia":"Cartera",
+            "sector":"QA.",
+            "contrasena":"A123bcd",
+            "jornada":"Temprano",
+            "hora":"1",
+            "jornadaSimple":"8:00",
+            "jornadaNormal": "7:00",
+            "modifico": "138",
+            "mes" : "Abril",
+            "aaa":"aaa",
+            "dias":"dias",
+            "email1":"cris.kapo_1@hotmail.com",
+            "jornada1":"Temprano",
+            "jornada2":"Torre",
+            "primeraimagen":"copia",
+            "segundaimagen":"Curriculum",
+            "terceraimagen":"logica",
+            "mobileu":"cris.kapo_1@hotmail.com",
+            "limpieza":"Limpieza",
+            "baile":"Baile",
+            "sistemas":"Sistemas",
+            "ifts":"ifts 5"
+        }
+    }
+}
+     
+        
+

@@ -1,0 +1,9 @@
+{
+    "novedadtest": {
+        "novedades": {
+            "codigo": "admin",
+            "detalle": "admin",
+            "diasPermitidos":2
+        }
+    }
+}
